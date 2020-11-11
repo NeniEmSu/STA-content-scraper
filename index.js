@@ -10,7 +10,7 @@ const scrapeForKrok = async (element) => {
   const page = await browser.newPage();
   await page.goto(element.link);
 
-  let question = [];
+  let questions = { question: [] };
 
   for (let i = 2, j = 1; i <= element.qNumber * 2; i += 2, j++) {
     const [getTitleXpath] = await page.$x(
@@ -46,7 +46,7 @@ const scrapeForKrok = async (element) => {
       );
       options.push(getOption);
     }
-    question.push({
+    questions.question.push({
       title: {
         __cdata: getTitle,
       },
@@ -138,15 +138,14 @@ const scrapeForKrok = async (element) => {
     });
   }
 
-  fs.writeFileSync(element.saveTo, JSON.stringify(question));
-  // console.log(question);
+  fs.writeFileSync(element.saveTo, JSON.stringify({ questions }));
 
   await browser.close();
 };
 
-scrapeFromK1.forEach((element) => {
-  scrapeForKrok(element);
-});
+// scrapeFromK1.forEach((element) => {
+//   scrapeForKrok(element);
+// });
 
 scrapeFromK2.forEach((element) => {
   scrapeForKrok(element);
