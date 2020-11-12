@@ -1,0 +1,106 @@
+{
+  "wpProQuiz": {
+    "header": {
+      "_version": "0.37",
+      "_exportVersion": "1"
+    },
+    "data": {
+      "quiz": {
+        "title": {
+          "_titleHidden": "false",
+          "__cdata": "Base"
+        },
+        "text": {
+          "__cdata": "Test quiz"
+        },
+        "category": "Krok 1",
+        "resultText": {
+          "_gradeEnabled": "false",
+          "__cdata": ""
+        },
+        "btnRestartQuizHidden": "false",
+        "btnViewQuestionHidden": "false",
+        "questionRandom": "false",
+        "answerRandom": "false",
+        "timeLimit": "0",
+        "showPoints": "false",
+        "statistic": {
+          "_activated": "true",
+          "_ipLock": "1440"
+        },
+        "quizRunOnce": {
+          "_type": "1",
+          "_cookie": "false",
+          "_time": "0",
+          "__text": "false"
+        },
+        "numberedAnswer": "false",
+        "hideAnswerMessageBox": "true",
+        "disabledAnswerMark": "false",
+        "showMaxQuestion": {
+          "_showMaxQuestionValue": "1",
+          "_showMaxQuestionPercent": "false",
+          "__text": "false"
+        },
+        "toplist": {
+          "toplistDataAddPermissions": "1",
+          "toplistDataSort": "1",
+          "toplistDataAddMultiple": "false",
+          "toplistDataAddBlock": "1",
+          "toplistDataShowLimit": "1",
+          "toplistDataShowIn": "0",
+          "toplistDataCaptcha": "false",
+          "toplistDataAddAutomatic": "false",
+          "_activated": "false"
+        },
+        "showAverageResult": "true",
+        "prerequisite": "false",
+        "showReviewQuestion": "true",
+        "quizSummaryHide": "false",
+        "skipQuestionDisabled": "false",
+        "emailNotification": "0",
+        "userEmailNotification": "false",
+        "showCategoryScore": "true",
+        "hideResultCorrectQuestion": "false",
+        "hideResultQuizTime": "false",
+        "hideResultPoints": "false",
+        "autostart": "false",
+        "forcingQuestionSolve": "false",
+        "hideQuestionPositionOverview": "false",
+        "hideQuestionNumbering": "false",
+        "sortCategories": "true",
+        "showCategory": "true",
+        "quizModus": {
+          "_questionsPerPage": "0",
+          "__text": "2"
+        },
+        "startOnlyRegisteredUser": "false",
+        "adminEmail": {
+          "to": "",
+          "form": "",
+          "subject": "Wp-Pro-Quiz: One user completed a quiz",
+          "html": "false",
+          "message": {
+            "__cdata": "Wp-Pro-Quiz\n\nThe user \"$username\" has completed \"$quizname\" the quiz.\n\nPoints: $points\nResult: $result"
+          }
+        },
+        "userEmail": {
+          "to": "-1",
+          "toUser": "false",
+          "toForm": "false",
+          "form": "",
+          "subject": "Wp-Pro-Quiz: One user completed a quiz",
+          "html": "false",
+          "message": {
+            "__cdata": "Wp-Pro-Quiz\n\nYou have completed the quiz \"$quizname\".\n\nPoints: $points\nResult: $result"
+          }
+        },
+        "forms": {
+          "_activated": "false",
+          "_position": "0"
+        },
+        "questions": ""
+      }
+    }
+  }
+}
