@@ -1,0 +1,3492 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wpProQuiz>
+  <header version='0.37' exportVersion='1'/>
+  <data>
+    <quiz>
+      <title titleHidden='false'>
+        <![CDATA[Krok 1 Med 2009 101-150]]>
+      </title>
+      <text>
+        <![CDATA[Krok 1 Med 2009 101-150]]>
+      </text>
+      <category>Krok 1 General Medicine</category>
+      <resultText gradeEnabled='false'>
+        <![CDATA[]]>
+      </resultText>
+      <btnRestartQuizHidden>false</btnRestartQuizHidden>
+      <btnViewQuestionHidden>false</btnViewQuestionHidden>
+      <questionRandom>false</questionRandom>
+      <answerRandom>false</answerRandom>
+      <timeLimit>0</timeLimit>
+      <showPoints>false</showPoints>
+      <statistic activated='true' ipLock='1440'/>
+      <quizRunOnce type='1' cookie='false' time='0'>false</quizRunOnce>
+      <numberedAnswer>false</numberedAnswer>
+      <hideAnswerMessageBox>true</hideAnswerMessageBox>
+      <disabledAnswerMark>false</disabledAnswerMark>
+      <showMaxQuestion showMaxQuestionValue='1' showMaxQuestionPercent='false'>false</showMaxQuestion>
+      <toplist activated='false'>
+        <toplistDataAddPermissions>1</toplistDataAddPermissions>
+        <toplistDataSort>1</toplistDataSort>
+        <toplistDataAddMultiple>false</toplistDataAddMultiple>
+        <toplistDataAddBlock>1</toplistDataAddBlock>
+        <toplistDataShowLimit>1</toplistDataShowLimit>
+        <toplistDataShowIn>0</toplistDataShowIn>
+        <toplistDataCaptcha>false</toplistDataCaptcha>
+        <toplistDataAddAutomatic>false</toplistDataAddAutomatic>
+      </toplist>
+      <showAverageResult>true</showAverageResult>
+      <prerequisite>false</prerequisite>
+      <showReviewQuestion>true</showReviewQuestion>
+      <quizSummaryHide>false</quizSummaryHide>
+      <skipQuestionDisabled>false</skipQuestionDisabled>
+      <emailNotification>0</emailNotification>
+      <userEmailNotification>false</userEmailNotification>
+      <showCategoryScore>true</showCategoryScore>
+      <hideResultCorrectQuestion>false</hideResultCorrectQuestion>
+      <hideResultQuizTime>false</hideResultQuizTime>
+      <hideResultPoints>false</hideResultPoints>
+      <autostart>false</autostart>
+      <forcingQuestionSolve>false</forcingQuestionSolve>
+      <hideQuestionPositionOverview>false</hideQuestionPositionOverview>
+      <hideQuestionNumbering>false</hideQuestionNumbering>
+      <sortCategories>true</sortCategories>
+      <showCategory>true</showCategory>
+      <quizModus questionsPerPage='0'>2</quizModus>
+      <startOnlyRegisteredUser>false</startOnlyRegisteredUser>
+      <adminEmail>
+        <to></to>
+        <form></form>
+        <subject>Wp-Pro-Quiz: One user completed a quiz</subject>
+        <html>false</html>
+        <message>
+          <![CDATA[Wp-Pro-Quiz
+
+The user "$username" has completed "$quizname" the quiz.
+
+Points: $points
+Result: $result]]>
+        </message>
+      </adminEmail>
+      <userEmail>
+        <to>-1</to>
+        <toUser>false</toUser>
+        <toForm>false</toForm>
+        <form></form>
+        <subject>Wp-Pro-Quiz: One user completed a quiz</subject>
+        <html>false</html>
+        <message>
+          <![CDATA[Wp-Pro-Quiz
+
+You have completed the quiz "$quizname".
+
+Points: $points
+Result: $result]]>
+        </message>
+      </userEmail>
+      <forms activated='false' position='0'/>
+      <questions>
+        <question answerType='single'>
+          <title>
+            <![CDATA[101]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Retrospective diagnostics of bacterial dysentery involved serological analysis of blood serum intended for determination of Shigella antibody titre. Which of the following reactions should be applied for this purpose?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Passive haemagglutination]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Complement binding]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Precipitation]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Haemolysis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Bacteriolysis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[102]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[You are studying functioning of a bacteria operon. The operator gene has been released from the repressor gene. Immediately after this the following process will start in the cell:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Transcription]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Translation]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Replication]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Processing]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Repression]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[103]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[While determining power inputs of a patient’s organism it was established that the respiratory coefficient equaled 1,0. This means that in the cells of the patient the following substances are mainly oxidized:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Carbohydrates]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Proteins]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Fats]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Proteins and carbohydrates]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Carbohydrates and fats]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[104]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[During an experiment the dorsal roots of the spinal cord of an animal have been cut. What changes will be observed in the innervation zone?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sensitivity loss]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Loss of motor functions]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Decrease in muscle tone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Increase in muscle tone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sensitivity loss and loss of motor functions]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[105]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[An experimental animal has lost ori-entative reflexes as a result of destruction of certain brainstem structures. What structures had been destroyed?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Quadrigeminal plate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Medial nuclei of the reticular formation]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Red nuclei]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Vestibular nuclei]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Black substance]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[106]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A patient has osmotic pressure of blood plasma at the rate of 350 mOsmol/l (norm is 300 mOsmol/l). This will cause hypersecretion of the following hormone:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Vasopressin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Aldosterone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Cortisol]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Adrenocorticotropin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Natriuretic]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[107]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[After a sprint an untrained person develops muscle hypoxia. This leads to the accumulation of the following metabolite in muscles:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lactate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ketone bodies]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acetyl CoA]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glucose 6-phosphate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Oxaloacetate]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[108]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Cytoplasm of the myocytes contains a lot of dissolved metabolites resulting from glucose oxidation. Name the metabolite that turns directly into lactate:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Pyruvate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Oxaloacetate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glycerophosphate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glucose-6-phosphate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Fructose-6-phosphate]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[109]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A young man complains about urination disorder. Examination of the external genitals revealed that the urethra was split and urine could flow out of this orifice. What anomaly of the external genitals development is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Epispadia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Phimosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hermaphroditism]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Paraphimosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hypospadia]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[110]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A patient consulted an urologist about pain during urination. Analysis of his urine taken in the daytime revealed eggs with a characteristic sharp point. It is known from the anamnesis that the patient has recently returned from Australia. What is the most likely diagnosis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Urogenital schistosomiasis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Intestinal schistosomiasis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Japanese schistosomiasis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Opisthorchiasis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Dicroceliasis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[111]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Colonoscopy of a patient with dysentery revealed that the mucous membrane of the large intestine was hyperemic, edematic, and its surface was covered with grey-and-green layerings. What morphological form of dysenteric colitis is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Fibrinous]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Catarrhal]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ulcerous]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Purulent]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Necrotic]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[112]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Examination of a patient 24 hours after appendectomy revealed neutrophilic leukocytosis with a regenerative shift. What is the most likely mechanism of leukocytosis development?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Intensification of leukopoiesis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Redistribution of the leukocytes in the organism]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Deceleration of leukocyte breakdown]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Deceleration of leukocyte migration to the tissues]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Intensification of leukopoiesis and deceleration of leukocyte migration to the tissues]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[113]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A 35-year-old patient complains about having severe rhinitis and loss of sense of smell for a week. Objectively: the nasal cavity contains a lot of mucus covering the mucous membrane and blocking olfactory receptors. In what region of the nasal cavity are these receptors located?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Superior nasal concha]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Median nasal concha]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Inferior nasal concha]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Common nasal meatus]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Vestibule of nose]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[114]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A 10-year-old child had the mantoux tuberculin test administered. 48 hours later a papule up to 8 mm in diameter appeared on the site of the injection. What type of hypersensitivity reaction developed after the tuberculin injection?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Type IV hypersensitivity reaction]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Arthus phenomenon]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Seroreaction]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Atopic reaction]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Type II hypersensitivity reaction]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[115]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Vitamin Bx deficiency causes disturbance of oxidative decarboxylation of o-ketoglutaric acid. This leads to the impaired synthesis of the following coenzyme:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Thiamine pyrophosphate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Nicotinamide adenine dinucleotide]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Flavine adenine dinucleotide]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lipoic acid]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Coenzyme A]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[116]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[On the ground of clinical presentations a patient was prescribed pyri-doxal phosphate. This medication is recommended for correction of the following processes:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Transamination and decarboxylation of amino acids]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Oxidative decarboxylation of ketonic acids]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Desamination of purine nucleotides]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Synthesis of purine and pyrimidin bases]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Protein synthesis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[117]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A patient with clinical presentations of immunodeficiency has undergone immunological tests. They revealed significant decrease in number of cells that form rosettes with sheep erythrocytes. What conclusion can be drown on the ground of the analysis data?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Decrease in T-lymphocyte level]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Decrease in 5-lymphocyte level]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Decrease in natural killer level (NK-cells)]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Decrease in complement system level]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lack of effector cells of the humoral immunity]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[118]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A man had worked in a coal mine for over 20 years. After his death autopsy revealed that his lungs were dense, grayish-black and had large areas of neogenic connective tissue containing a lot of microphages with black pigment in the cytoplasm. What is the most likely diagnosis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Anthracosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Anthracosilicosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Silicoanthracosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Talcosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Siderosis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[119]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Autopsy of a man who died from sepsis revealed a phlegmonous inflammation in the femoral bone of lower extremity. The inflammation was seen in the bone marrow, haversian canals and periosteum. There were also multiple abscesses underneath the periosteum; the surrounding soft tissues of the thigh were also affected by the phlegmonous inflammation. What pathological process is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acute haematogenous osteomyelitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Osteoporosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Chronic haematogenous osteomyelitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Osteopetrosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[-]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[120]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[After the prior sensibilization an experimental animal was given a subcutaneous injection of an antigen. The place of injection exhibited a fibrinous inflammation with alteration of the vessel walls, basal substance and fibrous structures of the connective tissue in form of mucoid and fibrinoid swelling and necrosis. What immunological reaction is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Immediate hypersensitivity]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Delayed-type hypersensitivity]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Reaction of transplantation immunity]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Normergic reaction]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Granulomatosis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[121]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[While examining the oral cavity a stomatologist revealed inflammation of papillae on the border of the median and posterior third of the back of tongue. What papillae are inflamed?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Papillae vallatae]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Papillae fungiformes]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Papillae foliatae]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Papillae filiformes]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Papillae conicae]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[122]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Autopsy of a 50-year-old man revealed the following changes: his right lung was moderately compact in all parts, the dissected tissue was found to be airless, fine-grained, dryish. Visceral pleura had greyish-brown layers of fibrin. What is the most likely diagnosis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Croupous pneumonia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Tuberculosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Bronchopneumonia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Interstitial pneumonia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Pneumofibrosis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[123]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[In the pubertal period cells of the male sexual glands start producing the male sexual hormone testosterone that is responsible for formation of the secondary sexual characters. What cells of the male sexual glands produce this hormone?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Leidig cells]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sustenocytes]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sertoli’s cells]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sustentacular cells]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Spermatozoa]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[124]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Examination of a patient revealed overgrowth of facial bones and soft tissues, tongue enlargement, wide interdental spaces in the enlarged dental arch. What changes of the hormonal secretion are the most likely?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hypersecretion of the somatotropic hormone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hyposecretion of the somatotropic hormone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hypersecretion of insulin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hyposecretion of thyroxin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hyposecretion of insulin]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[125]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Autopsy of a man, who had been suffering from the multiple bronchiectasis for 5 years and died from chronic renal insufficiency, revealed that kidneys were dense and enlarged, with thickened cortical layer of white colour with greasy lustre. What renal disease might be suspected?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Secondary amyloidosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glomerulonephritis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Chronic pyelonephritis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Necrotic nephrosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[-]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[126]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Autopsy of a 49-year-old woman who died from chronic renal insufficiency, revealed: kidneys were dense, reduced, multicoloured, with haemorrhagic areas. Microscopic examination revealed some hematoxylin bodies in the nuclei of the renal tubule epithelium; "wire-loop"thickening of the glomerular capillary basement membrane; here and there in the capillaries some hyaline thrombi and foci of fibrinoid necrosis were present. What is the most likely diagnosis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Systemic lupus erythematosus]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Rheumatism]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Arteriosclerotic pneumosclerosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Amyloidosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Atherosclerotic nephrosclerosis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[127]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[As a result of durative antibiotic therapy a 37-year old patient developed intestinal dysbacteriosis. What type of drugs should be used in order to normalize intestinal microflora?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Eubiotics]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sulfanilamides]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Bacteriophages]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Autovaccines]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Vitamins]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[128]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A married couple came to the genetic counseling. The husband suffers from the insulin-dependant diabetes, the wife is healthy. What is the probability that this couple will have an insulin-dependant child?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Higher than throughout the population]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[The same as throughout the population]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lower than throughout the population]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[100%]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[50%]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[129]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[An elderly female patient suffers from the type 2 diabetes mellitus accompanied by obesity, atherosclerosis, coronary artery disease. Basal hyperi-nsulinemia is also present. What treatment would be the most appropriate?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glibenclamid]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Insulin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Retabolil]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lovastatin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Amlodipine]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[130]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A 32-year-old patient consulted a doctor about the absence of lactation after parturition. Such disorder might be explained by the deficit of the following hormone:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Prolactin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Somatotropin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Vasopressin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Thyrocalcitonin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glucagon]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[131]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Preventive examination of a patient revealed an enlarged lymph node of metastatic origin on the medial wall of the left axillary crease. Specify the most likely localization of the primary tumour:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Mammary gland]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Submandibular salivary gland]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Lung]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Stomach]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Thyroid gland]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[132]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A man suffering from osteochondrosis got acute pain in the abdominal muscles (lateral and anterior). During objective examination a physician diagnosticated increased pain sensitivity of skin in the hypogastric region. This pain might be caused by affection of the following nerve:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Iliohypogastric]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sciatic]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Obturator]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Femoral]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Genitofemoral]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[133]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Pyeloureterography X-ray photo showed a renal pelvis with minor calyces only (major calyces were absent). What form of urinary tracts of a kidney was revealed?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Embryonal]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Fetal]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Mature]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ampullar]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[-]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[134]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Autopsy of a man who died from influenza revealed that the heart was slightly enlarged and pastose. The surface of the incision of myocardium appeared to be pale, with specks. Microscopic examination revealed signs of parenchymatous adipose and hydropic degeneration, edematic stroma with scant lymphocytic and macrophage infiltration; plethoric vessels; perivascular petechial haemorrhages. What type of myocarditis is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Serous diffuse]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Interstitial proliferative]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Serous focal]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Purulent]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Granulomatous]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[135]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[In spite of treatment with cardiotonics and thiazide diuretic a patient suffering from chronic cardiac failure still presents with edemata and faces a risk of ascites. What medication should be administered in order to increase the diuretic effect of the above mentioned drugs?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Spironolactone]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Furosemide]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Amiloride]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Clopamide]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Manithol]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[136]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Gynecological examination of the uterine cervix in a 30-year-old woman revealed some bright-red lustrous spots that easily bleed when touched. Biopsy showed that a part of the uterine cervix was covered with cylindrical epithelium with papillary outgrowths; in the depth of tissue the growth of glands was present. What pathology of the uterine cervix was revealed?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Pseudoerosion]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[True erosion]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Endocervicitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Glandular hyperplasia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Leukoplakia]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[137]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A stillborn child was found to have thickened skin resembling of the tortoise shell, underdeveloped auricles. Histological examination of skin revealed hyperkeratosis, atrophy of the granular epidermis layer; inflammatory changes were not present. What is the most likely diagnosis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ichthyosis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Leukoplakia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Xerodermia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Erythroplakia]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Dermatomyositis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[138]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A patient presents with twilight vision impairment. Which of the following vitamins should be administered?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Retinol acetate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Cyanocobalamin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Pyridoxine hydrochloride]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ascorbic acid]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Nicotinic acid]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[139]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A female patient consulted a doctor about pain and limited movements in the knee joints. Which of the following nonsteroid anti-inflammatory drugs should be administered taking into consideration that the patient has a history of chronic gastroduodenitis?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Celecoxib]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Diclofenac sodium]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Promedol]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acetylsalicilic acid]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Butadiounum]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[140]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Depressions and emotional insanities result from the deficit of noradrenalin, serotonin and other biogenic amines in the brain. Their concentration in the synapses can be increased by means of the antidepressants that inhibit the following enzyme:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Monoamine oxidase]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Diamine oxidase]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[L-amino-acid oxidase]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[D-amino-acid oxidase]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Phenylalanine-4-monooxygenase]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[141]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A patient presents with icteriti-ousness of skin, scleras and mucous membranes. Blood plasma the total bilirubin is increased, stercobilin is increased in feces, urobilin is increased in urine. What type of jaundice is it?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Haemolytic]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Gilbert’s disease]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Parenchymatous]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Obturational]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Cholestatic]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[142]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A pathology-histology laboratory received a vermiform appendix up to 2,0 cm thick. Its serous membrane was pale, thick and covered with yellowish-green films. The wall was flaccid, of grayish-red colour. The appendix lumen was dilated and filled with yellowish-green substance. Histological examination revealed that the appendix wall was infiltrated with neutrophils. Specify the appendix disease:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acute phlegmonous appendicitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acute gangrenous appendicitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acute superficial appendicitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Acute simple appendicitis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Chronic appendicitis]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[143]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[While on holiday in the countryside a boy found a spider with the following morphological peculiarities: body length of 2 cm, round black abdomen with two rows of red dots on its dorsal surface, four pairs of segmented extremities covered with tiny black hairs. Identify this arthropod:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Karakurt spider]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Scorpion]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Solifugae]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Mite]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Tarantula]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[144]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[As a result of a trauma a patient has developed traumatic shock that led to the following disorders: AP is 140/90 mm Hg, Ps is 120 bpm. The patient is fussy, talkative, pale. Such state relates to the following shock phase:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Erectile]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Latent period]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Terminal]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Torpid]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[-]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[145]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[Examination of a patient admitted to the surgical department with symptoms of acute appendicitis revealed the following changes in the white blood cells: the total count of leukocytes is 16 • 109/l. Leukocyte formula: basophils - 0, eosinophils - 2%, juvenile forms - 2%, stabnuclear - 8%, segmentonuclear - 59%, lymphocytes - 25%, monocytes- 4%. The described changes can be classified as:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Neutrophilia with regenerative left shift]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Neutrophilia with right shift]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Neutrophilia with degenerative left shift]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Neutrophilic leukemoid reaction]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Neutrophilia with hyperregenerative left shift]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[146]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[After a trauma a patient lost ability of elbow extension. This might have been caused by dysfunction of the following main muscle:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[m. triceps brachii]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[m. subscapularis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[m. teres major]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[m. infraspinatus]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[m. levator scapulae]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[147]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A student came to see a doctor and asked to administer him a drug for treatment of allergic rhinitis that occurs in the period of linden flowering. What drug may be used?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Loratadine]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Noradrenaline hydrotartrate]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Propanolol]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Ambroxol]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Losartan]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[148]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[In an embryo the process of dorsal mesoderm segmentation and somite formation is disturbed. What part of skin will probably have developmental abnormalities?]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Dermis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Hair]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Sebaceous glands]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Epidermis]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Perspiratory glands]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[149]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[A 9-month-old infant is fed with artificial formulas with unbalanced vitamin B6 concentration. The infant presents with pellagral dermatitis, convulsions, anaemia. Convulsion development might be caused by the disturbed formation of:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[GABA]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Histamine]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Serotonin]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[DOPA]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Dopamine]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+        <question answerType='single'>
+          <title>
+            <![CDATA[150]]>
+          </title>
+          <points>1</points>
+          <questionText>
+            <![CDATA[During an experiment the myotatic reflex has been studied in frogs. After extension in a skeletal muscle its reflectory contraction was absent. The reason for it might be a dysfunction of the following receptors:]]>
+          </questionText>
+          <incorrectMsg>
+            <![CDATA[]]>
+          </incorrectMsg>
+          <tipMsg enabled='false'>
+            <![CDATA[]]>
+          </tipMsg>
+          <correctMsg>
+            <![CDATA["years": [2009] 
+ Exp: 
+ ]]>
+          </correctMsg>
+          <category></category>
+          <correctSameText>true</correctSameText>
+          <showPointsInBox>false</showPointsInBox>
+          <answerPointsActivated>false</answerPointsActivated>
+          <answerPointsDiffModusActivated>false</answerPointsDiffModusActivated>
+          <disableCorrect>false</disableCorrect>
+          <answers>
+            <answer points='1' correct='true'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Muscle spindles]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Nociceptors]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Articular]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Golgi tendon organs]]>
+              </answerText>
+            </answer>
+            <answer points='1' correct='false'>
+              <stortText html='true'>
+                <![CDATA[]]>
+              </stortText>
+              <answerText html='true'>
+                <![CDATA[Tactile]]>
+              </answerText>
+            </answer>
+          </answers>
+        </question>
+      </questions>
+    </quiz>
+  </data>
+</wpProQuiz>
